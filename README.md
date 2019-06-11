@@ -1,3 +1,3 @@
-# Desgin-and-Algorithms
+# Design-and-Algorithms
 
 ## This file contains codes for algorithms and design questions
